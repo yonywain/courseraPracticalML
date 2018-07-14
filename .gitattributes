@@ -1,4 +1,7 @@
 *.html linguist-vendored
+*.txt linguist-language=R
+
+
 # Basic .gitattributes for a R repo.
 
 # Source files
