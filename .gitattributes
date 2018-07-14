@@ -1,1 +1,2 @@
-*.txt linguist-language=R
+*.html linguist-vendored
+*.md linguist-language=R
