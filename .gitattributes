@@ -1,1 +1,3 @@
+*.html linguist-vendored
+
 *.md linguist-language=R
